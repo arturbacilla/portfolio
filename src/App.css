@@ -24,8 +24,9 @@ main {
     align-items: center;
     background-color: var(--background);
     display: flex;
+    flex-direction: column;
     height: 100vh;
-    justify-content: center;
+    justify-content: space-between;
     width: 100vw;
 }
 
@@ -33,24 +34,40 @@ main {
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
-    width: 40%;
+    justify-content: flex-end;
+    height: 40%;
 }
 
 .presentation-text p {
-    width: 50%;
+    width: 80%;
     color: white;
 }
 
 .landing-img {
-    align-self: flex-end;
-    height: 90%;
+    align-self: center;
+    justify-self: end;
+    height: 50%;
 }
 
-.App {
-    text-align: center;
-}
+@media (min-width:1025px) {
 
-.App-link {
-    color: #61dafb;
+    main {
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    .presentation-text {
+        width: 40%;
+    }
+
+    .presentation-text p {
+        width: 50%;
+    }
+
+    .landing-img {
+        height: 90%;
+        align-self: end;
+        justify-self: end;
+    }
+
 }
