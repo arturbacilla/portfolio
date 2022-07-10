@@ -13,9 +13,13 @@ Design incrível desenvolvido por
 ## Stacks utilizadas
 
 **Client:** ReactJS, CSS puro (voltado à mobile first)
+
 **Server:** (ainda em construção)
+
 **Deploy:** Vercel
+
 **DNS:** Namecheap
+
 
 ## Roadmap
 
