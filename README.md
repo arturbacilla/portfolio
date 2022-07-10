@@ -3,9 +3,12 @@
 #### PT-BR - Português do Brasil [(English version here)](https://github.com/arturbacilla/arturbacilla/blob/main/README_en.md)
  
 Olá! Esse é o repositório do meu portifólio (em construção), disponível em [arturbacilla.me](https://arturbacilla.me).
-Design incrível desenvolvido por 
-[![Nic marcas humanizadas](https://nicoleferreira.com.br/wp-content/uploads/2020/08/nic-logo-menu.png.webp#gh-dark-mode-only =100x)](https://nicoleferreira.com.br)
-[![Nic marcas humanizadas](https://nicoleferreira.com.br/wp-content/uploads/2021/04/Ativo-46.png.webp#gh-light-mode-only =100x)](https://nicoleferreira.com.br)
+Design incrível desenvolvido por
+
+[<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://nicoleferreira.com.br/wp-content/uploads/2021/04/Ativo-46.png" width="100">
+  <img alt="Nic marcas humanizadas." src="https://nicoleferreira.com.br/wp-content/uploads/2020/08/nic-logo-menu.png" width="100">
+</picture>](https://nicoleferreira.com.br/)
 
 ## Stacks utilizadas
 
