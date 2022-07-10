@@ -19,8 +19,6 @@ Incredible design developed by:
 
 **Deploy:** Vercel
 
-**DNS:** Namecheap
-
 ## Roadmap
 
  ### Pages and components
