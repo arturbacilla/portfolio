@@ -1,6 +1,6 @@
 # Artur Bacilla's Portfolio
 #### 
-#### EN - English [(Versão em PT-BR)](https://github.com/arturbacilla/arturbacilla/blob/main/README.md)
+#### EN - English [(Versão em PT-BR)](https://github.com/arturbacilla/portfolio.git)
  
 Welcome! This is my portfolio's (under construction) repository, available at [arturbacilla.me](https://arturbacilla.me).
 Incredible design developed by:
