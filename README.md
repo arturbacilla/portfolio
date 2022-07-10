@@ -3,6 +3,7 @@
 #### PT-BR - Português do Brasil [(English version here)](https://github.com/arturbacilla/portfolio/tree/portfolio-react/README_en.md)
  
 Olá! Esse é o repositório do meu portifólio (em construção), disponível em [arturbacilla.me](https://arturbacilla.me).
+
 Design incrível desenvolvido por
 
 [<picture>
