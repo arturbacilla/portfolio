@@ -13,8 +13,11 @@ Incredible design developed by:
 ## Tech Stacks
 
 **Client:** ReactJS, pure CSS (mobile first driven)
+
 **Server:** (still under construction)
+
 **Deploy:** Vercel
+
 **DNS:** Namecheap
 
 ## Roadmap
