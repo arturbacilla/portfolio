@@ -1,6 +1,6 @@
 # Portifólio de Artur Bacilla
 #### 
-#### PT-BR - Português do Brasil [(English version here)](https://github.com/arturbacilla/portfolio/blob/26b9dd0ebc05d8ff5a00c5973c3d9eec5432e657/README_en.md)
+#### PT-BR - Português do Brasil [(English version here)](https://github.com/arturbacilla/portfolio/tree/portfolio-react/README_en.md)
  
 Olá! Esse é o repositório do meu portifólio (em construção), disponível em [arturbacilla.me](https://arturbacilla.me).
 Design incrível desenvolvido por
