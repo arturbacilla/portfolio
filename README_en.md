@@ -3,6 +3,7 @@
 #### EN - English [(Versão em PT-BR)](https://github.com/arturbacilla/portfolio.git)
  
 Welcome! This is my portfolio's (under construction) repository, available at [arturbacilla.me](https://arturbacilla.me).
+
 Incredible design developed by:
 
 [<picture>
