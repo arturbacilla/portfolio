@@ -13,9 +13,9 @@ Design incrível desenvolvido por
 
 ## Stacks utilizadas
 
-**Client:** ReactJS, CSS puro (voltado à mobile first)
+**Frontend:** ReactJS, CSS puro (voltado à mobile first)
 
-**Server:** (ainda em construção)
+**Backend:** (ainda em construção)
 
 **Deploy:** Vercel
 
