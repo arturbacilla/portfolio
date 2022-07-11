@@ -13,9 +13,9 @@ Incredible design developed by:
 
 ## Tech Stacks
 
-**Client:** ReactJS, pure CSS (mobile first driven)
+**Frontend:** ReactJS, pure CSS (mobile first driven)
 
-**Server:** (still under construction)
+**Backend:** (still under construction)
 
 **Deploy:** Vercel
 
